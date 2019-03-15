@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\GorselProje\GorselProje\bin\Debug\GorselProje.exe.config
+C:\Users\PC\Desktop\GorselProje\GorselProje\bin\Debug\GorselProje.exe
+C:\Users\PC\Desktop\GorselProje\GorselProje\bin\Debug\GorselProje.pdb
+C:\Users\PC\Desktop\GorselProje\GorselProje\obj\Debug\GorselProje.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\GorselProje\GorselProje\obj\Debug\GorselProje.Form1.resources
+C:\Users\PC\Desktop\GorselProje\GorselProje\obj\Debug\GorselProje.Properties.Resources.resources
+C:\Users\PC\Desktop\GorselProje\GorselProje\obj\Debug\GorselProje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\GorselProje\GorselProje\obj\Debug\GorselProje.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GorselProje\GorselProje\obj\Debug\GorselProje.exe
+C:\Users\PC\Desktop\GorselProje\GorselProje\obj\Debug\GorselProje.pdb
+C:\Users\PC\Desktop\GorselProje\GorselProje\obj\Debug\GorselProje.Oyun.resources
